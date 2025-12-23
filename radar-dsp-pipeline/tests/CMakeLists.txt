@@ -1,0 +1,4 @@
+add_executable(test_queue test_queue.cpp)
+add_executable(test_range_binlock test_range_binlock.cpp)
+add_executable(test_doppler_binlock test_doppler_binlock.cpp)
+add_executable(test_cfar_noise_only test_cfar_noise_only.cpp)
